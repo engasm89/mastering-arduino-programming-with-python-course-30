@@ -1,3 +1,11 @@
+/*
+ * Course: Mastering Arduino Programming With Python Course 30
+ * Platform: Arduino
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Serial
 
 #define INPUT 0 // Input
@@ -30,6 +38,7 @@ void loop(void) { // Main loop
   delay(500); // 0.5s interval
 }
 
+// Main routine: orchestrates the mastering arduino programming with python course 30 scenario
 int main(void) { // Entry
   setup(); // Init
   for (int i = 0; i < 8; ++i) { // Simulated cycles
